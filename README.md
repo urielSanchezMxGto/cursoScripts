@@ -6,3 +6,4 @@ Orden en que se ejecutan los scripts para crear la base de datos
 4. CAT_CIUDAD.sql
 5. CAT_ESTADO_FACTURA
 6. CAT_ESTADO_PAGO
+7. CAT_ROL
