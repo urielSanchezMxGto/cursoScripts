@@ -11,3 +11,4 @@ Orden en que se ejecutan los scripts para crear la base de datos
 9. CAT_ESTADO_MENSAJE
 10. CAT_TIPO_CLIENTE
 11. CAT_TIPO_TOKEN
+12. CUR_CLIENTE
