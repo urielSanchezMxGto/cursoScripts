@@ -12,3 +12,4 @@ Orden en que se ejecutan los scripts para crear la base de datos
 10. CAT_TIPO_CLIENTE
 11. CAT_TIPO_TOKEN
 12. CUR_CLIENTE
+13. CUR_DATO_FISCAL
