@@ -17,3 +17,4 @@ Orden en que se ejecutan los scripts para crear la base de datos
 15. CUR_MENSAJE
 16. CUR_PAGO
 17. CUR_PERSONA
+18. CUR_TELEFONO_CLIENTE
