@@ -20,3 +20,4 @@ Orden en que se ejecutan los scripts para crear la base de datos
 18. CUR_TELEFONO_CLIENTE
 19. CUR_TOKEN_VERIFICACION
 20. CUR_USUARIO
+21. BIT_CAT_PAIS
